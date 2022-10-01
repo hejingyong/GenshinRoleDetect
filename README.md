@@ -1,0 +1,2 @@
+# GenshinRoleDetect
+GenshinRoleDetect
